@@ -1,0 +1,22 @@
+body {
+    background: #fff;
+    color: #000;
+   
+  }
+  
+form {
+background-color:#4682B4;
+padding:50px;
+width:800px;
+color: WHITE;
+text-shadow: 0 0 8px white;
+text-align: left;
+}	
+
+     .white {
+         color: #FFFFFF
+     }
+         
+     .blue {
+         color: #4682B4;
+     }	
